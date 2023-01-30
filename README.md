@@ -1,17 +1,18 @@
 # python-linting-formatting
+
 This demo will show how to set up Black, Flake8, isort, and Git Hooks for automatic linting and formatting.
 
-## Automated Remote Installation
+## Automated Gitpod Installation
 
-Similar to GitHub Codespaces, [Gitpod](https://www.gitpod.io) provides a remote VSCode developer environment.
+Like GitHub Codespaces, [Gitpod](https://www.gitpod.io) provides a remote VSCode developer environment.
 
-Launch the demo environment using the link below.
+Launch the demo environment using the link below. This will set up an environment for you with all the necessary dependencies.
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/PDXPythonPirates/python-linting-formatting.git)
 
 ## Local Installation
 
-### Create virtual environment
+### Create a virtual environment
 
 The following command will create a virtual environment called `.venv` in your current directory.
 
@@ -21,7 +22,7 @@ $ python3 -m venv .venv
 
 ### Activate the environment
 
-The following commands activate an existing virtual environment on Windows and Unix systems. The command assume that the virtual environment is named venv and that its location is in a subdirectory path/to/ of the current directory.
+The following commands activate an existing virtual environment on Windows and Unix systems. The command assumes that the virtual environment is named `.venv`.
 
 ```bash
 # Windows (CMD.exe)
@@ -31,7 +32,7 @@ $ .venv\Scripts\activate.bat
 $ source .venv/bin/activate
 ```
 
-Once activated your prompt should prepend the name of the virtual environment as shown below.
+Once activated, your prompt should prepend the name of the virtual environment, as shown below.
 
 ```bash
 $ (venv) echo 'Hello, World!'
@@ -47,7 +48,7 @@ $ (venv) deactivate
 
 ### Install dependencies
 
-After you activate your vitual environment, the following command will install the required dependencies.
+After you activate your virtual environment, the following command will install the required dependencies.
 
 ```bash
 $ (venv) pip install -r requirements
