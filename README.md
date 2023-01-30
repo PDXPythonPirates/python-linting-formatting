@@ -1,6 +1,6 @@
 # python-linting-formatting
 
-This demo will show how to set up Black, Flake8, isort, and Git Hooks for automatic linting and formatting.
+This is the starter repo for a demo that will show how to use Black, Flake8, isort, and Git Hooks for automatic linting and formatting.
 
 ## Automated Gitpod Installation
 
