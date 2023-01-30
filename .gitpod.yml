@@ -1,8 +1,6 @@
 tasks:
   - name: "Virtual Environment"
     init: |
-      python -m venv .venv
-      source .venv/bin/activate
       pip install -r requirements.txt
 
 vscode:
