@@ -3,7 +3,7 @@ This demo will show how to set up Black, Flake8, isort, and Git Hooks for automa
 
 ## Automated Remote Installation
 
-Similar to GitHub Codespaces, [Gitpod](https://www.gitpod.io) provides a remote VSCode developer environment. 
+Similar to GitHub Codespaces, [Gitpod](https://www.gitpod.io) provides a remote VSCode developer environment.
 
 Launch the demo environment using the link below.
 

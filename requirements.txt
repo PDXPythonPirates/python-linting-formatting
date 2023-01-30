@@ -3,3 +3,4 @@ fastapi[all]==0.89.1
 flake8==6.0.0
 isort==5.11.4
 pre-commit==2.21.0
+uvicorn==0.20.0
