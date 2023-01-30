@@ -6,9 +6,7 @@ This repo should not be used directly. Instead, [fork this repo](https://docs.gi
 
 ## Automated Gitpod Installation
 
-Like GitHub Codespaces, [Gitpod](https://www.gitpod.io) provides a remote VSCode developer environment. 
-
-First create a Gitpod account and then, after forking the repo, copy the `https` link from your and use it to create a new Gitpod workspace. All dependencies should be installed automatcally.
+Navigate to `gitpod.io#https://github.com/[YOUR_GITHUB_USERNAME]/python-linting-formatting`. Once you create an account, your workspace should be configured automatically.
 
 ## Local Installation
 
