@@ -2,6 +2,8 @@
 
 This is the starter repo for a demo that will show how to use Black, Flake8, isort, and Git Hooks for automatic linting and formatting.
 
+This repo should not be used directly. Instead, [fork this repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo) and clone your copy instead.
+
 ## Automated Gitpod Installation
 
 Like GitHub Codespaces, [Gitpod](https://www.gitpod.io) provides a remote VSCode developer environment.
@@ -14,7 +16,7 @@ Launch the demo environment using the link below. This will set up an environmen
 
 ### Create a virtual environment
 
-The following command will create a virtual environment called `.venv` in your current directory.
+The following command will create a [virtual environment](https://docs.python.org/3/library/venv.html) called `.venv` in your current directory.
 
 ```bash
 $ python3 -m venv .venv
